@@ -1,16 +1,14 @@
-# tabia_app
+# Tabia App
 
-A new Flutter project.
+## Projenin özeti
+### Projemiz oyunlaştırma metoduyla desteklenmiş bir çöp toplama uygulamasıdır.
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## Calışmanın amacı
+### Bu çalışmanın amacı, yaşadığımız yüzyılın önemli sorunlarından biri olan çevre kirliliğine ve doğada geçirilen vaktin azalmasına  çözüm olabilmek amacıyla oyunlaştırma metodu kullanılarak bir mobil uygulama geliştirmek ve sosyal sorumluluk projesi gerçekleştirmektir.
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Nasıl çalışıyor
+### Proje sırasında doğa severler , birlikte yürüyüş yapıp aynı anda da yerden çöp topladığı için egzersizlerini yeni seviyelere taşıyor. Sık sık eğilip yerden pet şişe, teneke ve kağıt toplamak durumunda kalıyorlar ne de olsa. Ne kadar çok çöp, o kadar çok bacak kası! Bu çalışmaya katılmak için tek ihtiyacınız olan bir çift eldiven, bir çöp torbası ve spor kıyafetler.
